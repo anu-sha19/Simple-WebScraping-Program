@@ -1,5 +1,3 @@
-# Simple-WebScraping-Program
-
 This Python program is designed to extract structured data from HTML files and save it into a TSV (Tab-Separated Values) file. It utilizes the BeautifulSoup library for HTML parsing and some custom functions for data cleaning and extraction. Below are the key components and usage instructions for this script.
 
 **Extracting the files**
