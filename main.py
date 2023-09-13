@@ -39,7 +39,7 @@ def main():
     start_file_number = 10000
 
     # Number of files to process
-    num_files = 2748
+    num_files = 10
 
     # TSV file name where the data is saved
     tsv_file_name = 'info.tsv'
